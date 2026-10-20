@@ -3,5 +3,5 @@ name = "Chaskay"
 version = "0.0.1"
 schema_version = 1
 authors = ["Chaskay <yupanquiah@gmail.com>"]
-description = "Theme for Zed"
+description = "Chaskay theme for Zed"
 repository = "https://github.com/chaskay/zed"
