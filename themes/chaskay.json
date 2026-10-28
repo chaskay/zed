@@ -222,12 +222,12 @@
           "comment.documentation": {
             "color": "#9399B2",
             "font_style": "normal",
-            "font_weight": 100
+            "font_weight": 400
           },
           "comment.info": {
             "color": "#94E2D5",
             "font_style": "normal",
-            "font_weight": 100
+            "font_weight": 400
           },
           "comment.error": {
             "color": "#F38BA8",
