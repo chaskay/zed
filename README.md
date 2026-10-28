@@ -6,6 +6,8 @@
 [![Version](https://img.shields.io/badge/version-0.0.4-B4ACDF?style=flat-square)](https://github.com/chaskay/zed)
 [![License](https://img.shields.io/badge/license-MIT-A0C58A?style=flat-square)](LICENSE)
 
+![Chaskay screenshot](assets/screenshot.png)
+
 Chaskay is a carefully tuned dark theme designed to keep code readable and the interface comfortable during long coding sessions. It combines a cool slate background with soft lavender accents and balanced syntax colors.
 
 ## Highlights
