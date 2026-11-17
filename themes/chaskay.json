@@ -8,9 +8,9 @@
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
-        "background": "#20242D",
-        "surface.background": "#252A34",
-        "elevated_surface.background": "#2B313C",
+        "background": "#272E39",
+        "surface.background": "#272E39",
+        "elevated_surface.background": "#272E39",
         "border": "#2D3440",
         "border.variant": "#272D36",
         "border.focused": "#A78BFF",
