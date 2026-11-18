@@ -1,6 +1,6 @@
 id = "chaskay-theme"
 name = "Chaskay"
-version = "0.0.13"
+version = "0.0.14"
 schema_version = 1
 authors = ["Chaskay <yupanquiah@gmail.com>"]
 description = "A calm, modern dark theme for Zed with soft slate backgrounds and lavender accents."
