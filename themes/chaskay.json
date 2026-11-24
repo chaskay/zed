@@ -167,44 +167,49 @@
         "terminal.ansi.dim_magenta": "#8D54A0",
         "players": [
           {
-            "cursor": "#B4ACDF",
-            "background": "#B4ACDF",
-            "selection": "#3B3D55"
+            "cursor": "#8C55FD",
+            "background": "#8C55FD",
+            "selection": "#8C55FD33"
           },
           {
-            "cursor": "#76ACE0",
-            "background": "#76ACE0",
-            "selection": "#76ACE033"
+            "cursor": "#74ADE8",
+            "background": "#74ADE8",
+            "selection": "#74ADE833"
           },
           {
-            "cursor": "#70BBC6",
-            "background": "#70BBC6",
-            "selection": "#70BBC633"
+            "cursor": "#BE5046",
+            "background": "#BE5046",
+            "selection": "#BE504633"
           },
           {
-            "cursor": "#A0C58A",
-            "background": "#A0C58A",
-            "selection": "#A0C58A33"
+            "cursor": "#BF956A",
+            "background": "#BF956A",
+            "selection": "#BF956A33"
           },
           {
-            "cursor": "#DFC184",
-            "background": "#DFC184",
-            "selection": "#DFC18433"
+            "cursor": "#B477CF",
+            "background": "#B477CF",
+            "selection": "#B477CF33"
           },
           {
-            "cursor": "#DF7D86",
-            "background": "#DF7D86",
-            "selection": "#DF7D8633"
+            "cursor": "#6EB4BF",
+            "background": "#6EB4BF",
+            "selection": "#6EB4BF33"
           },
           {
-            "cursor": "#BA8CD6",
-            "background": "#BA8CD6",
-            "selection": "#BA8CD633"
+            "cursor": "#D07277",
+            "background": "#D07277",
+            "selection": "#D0727733"
           },
           {
-            "cursor": "#D6A071",
-            "background": "#D6A071",
-            "selection": "#D6A07133"
+            "cursor": "#DEC184",
+            "background": "#DEC184",
+            "selection": "#DEC18433"
+          },
+          {
+            "cursor": "#A1C181",
+            "background": "#A1C181",
+            "selection": "#A1C18133"
           }
         ],
         "syntax": {
